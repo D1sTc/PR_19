@@ -1,0 +1,12 @@
+C:\Users\Home-pc\Desktop\PR_19\PR_19\bin\Debug\PR_19.exe.config
+C:\Users\Home-pc\Desktop\PR_19\PR_19\bin\Debug\PR_19.exe
+C:\Users\Home-pc\Desktop\PR_19\PR_19\bin\Debug\PR_19.pdb
+C:\Users\Home-pc\Desktop\PR_19\PR_19\obj\Debug\PR_19.csproj.AssemblyReference.cache
+C:\Users\Home-pc\Desktop\PR_19\PR_19\obj\Debug\PR_19.Form1.resources
+C:\Users\Home-pc\Desktop\PR_19\PR_19\obj\Debug\PR_19.Properties.Resources.resources
+C:\Users\Home-pc\Desktop\PR_19\PR_19\obj\Debug\PR_19.csproj.GenerateResource.cache
+C:\Users\Home-pc\Desktop\PR_19\PR_19\obj\Debug\PR_19.csproj.CoreCompileInputs.cache
+C:\Users\Home-pc\Desktop\PR_19\PR_19\obj\Debug\PR_19.exe
+C:\Users\Home-pc\Desktop\PR_19\PR_19\obj\Debug\PR_19.pdb
+C:\Users\Home-pc\Desktop\PR_19\PR_19\obj\Debug\PR_19.Form3.resources
+C:\Users\Home-pc\Desktop\PR_19\PR_19\obj\Debug\PR_19.Form2.resources
